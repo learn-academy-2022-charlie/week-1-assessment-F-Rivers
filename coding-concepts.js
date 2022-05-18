@@ -55,5 +55,5 @@ const weekendDays = ["saturday", "sunday"]
 const dataTypes = ["number", "string", "Boolean"]
 console.log(typeof dataTypes.length)
 
-// a) Your answer: I have not seen the 'typeof' used in the syllabus as of this assement, the .length will most probably not work in this code. 
+// a) Your answer: The .length and dataTpes will most probably not work with this code syntax. 
 // b) Verify and explain: typeOf is used to find the data type of a variable, since the .length was referencing a number, the output is 'number' 
