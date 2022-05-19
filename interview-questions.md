@@ -23,9 +23,9 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 2. Which JavaScript operators will return a Boolean value?
 
-  Your answer: Boolean values are true or false, they are binary answers to a question. The operators include greater than, less than, equal to, and or, not, and a combonation there of. 
+  Your answer: Boolean values are true or false, they are binary answers to a question. The operators include greater than, less than, equal to, and or, not, and a combination there of. 
 
-  Researched answer: Boolean values are logical operators first created by George Boole in the 19th century. These operators helped create the first computer and now serve developers in creating logical statements via operators. Operaters include: &&, >, >=, <, <=, ||, !, !=
+  Researched answer: Boolean values are logical operators first created by George Boole in the 19th century. These operators helped create the first computer and now serve developers in creating logical statements via operators. Operaters include: ==, ===, %, fac&&, >, >=, <, <=, ||, !, !=
 
 
 3. What is an index? What is the difference between index and value?
@@ -63,12 +63,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: A function that can take in another function as an argument or returns another function as an output. Examples of HoFs are: .map() and .filter()  
 
-2. Jest:
+2. Jest: A Javascript testing framework, it's a collection of files that are managed by 'yarn' (yet another resource negotiator)
 
-3. Objects:
+3. Objects: consist of collections of 'key:value' pairs stored in curly braces. The key is a data type of symbol, and the value is any data type in Javascript. JSON is the Javascript language to hold collections of data as well as being used to transmit data across a network. 
 
-4. Method:
+4. Method: When a function belongs to an object it is called a method, 'this' is a Javascript keyword that references the object. 'this' can be used to create a variable assessing the value within the object. 
 
-5. Classes:
+5. Classes: A type of function that contain data and behavior, like blueprints of objects. Examples of classes are: constructor, this, and new. Class names use PascalCase instead of camelCase and objects are always lowercase. 
